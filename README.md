@@ -1,4 +1,4 @@
-# Layout Nativescript examples
+# Layout Nativescript examples (in construction)
 
 This project is about an app who exemplify the layouts in nativescript
 
